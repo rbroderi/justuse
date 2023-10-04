@@ -68,7 +68,7 @@ requires = (
     "furl(>= 2.1.2)",
     "icontract(>= 2.5.4)",
     "jinja2",
-    "packaging(== 21.0)",
+    "packaging(>= 21.0)",
     "pip",
     "pydantic(>= 1.8.2)",
     "requests",
